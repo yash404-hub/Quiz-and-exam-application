@@ -1,1 +1,2 @@
 Quiz Management System 
+The Quiz or Exam Management System is a digital platform that helps create, manage, and evaluate quizzes and exams efficiently. It allows instructors to upload questions, schedule tests, and automatically assess student performance. Students can take exams online with features like time limits, random questions, and instant results, making the process faster, secure, and more organized.
